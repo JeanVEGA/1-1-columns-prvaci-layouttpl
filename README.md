@@ -2,4 +2,4 @@
 
 Liferay Layout 1-1 (100/100)
 
-Created via Liferay Maven Archetype
+![1-1-columns-prvaci-layouttpl](src/main/webapp/1-1-columns-prvaci-layouttpl.png?raw=true)
